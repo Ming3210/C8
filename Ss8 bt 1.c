@@ -2,7 +2,7 @@
 int main(){
 	int max,min;
 	int nums[3];
-	for(int i=0;i<3;i++){
+	for(int i=0;i<3;i+=1){
 		printf("number[%d]",i);
 		scanf("%d",&nums[i]);
 	}
